@@ -7,7 +7,6 @@ My Skills:
 * JavaScript
 * React
 * Node.js
-* ... (add more)
 
 Featured Projects:
 * Projectiva3: A project management web application.(https://github.com/gashug/projectiva3)
